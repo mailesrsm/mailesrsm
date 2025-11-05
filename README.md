@@ -47,4 +47,34 @@ I don’t stack-dump; I **ship systems that run**.
 <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare"/>
-  <img height="28" src="http
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+</p>
+
+![Firebase RTDB](https://img.shields.io/badge/Firebase%20RTDB-FFCA28?logo=firebase&logoColor=000&style=flat-square)
+![Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=000&style=flat-square)
+![Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?logo=firebase&logoColor=000&style=flat-square)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=fff&style=flat-square)
+![Flask API](https://img.shields.io/badge/Flask%20API-000?logo=flask&style=flat-square)
+
+### Frontend (Lite)
+<p>
+  <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+  <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+  <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
+</p>
+
+![Dashboards](https://img.shields.io/badge/Realtime%20Dashboards-0A66C2?style=flat-square)
+![Maps](https://img.shields.io/badge/Map%20Visualizations-0A66C2?style=flat-square)
+
+---
+
+## 🛰️ Featured Build — Smart Pothole Detection
+**Goal:** Detect road anomalies, classify severity, geotag, and notify maintenance teams in real time.
+
+```mermaid
+flowchart LR
+  A[MPU6050 + GPS] --> B[ESP32/NodeMCU FW]
+  B --> C[Flask/HTTP]
+  C --> D[Cloudflare Worker]
+  D --> E[Firebase RTDB]
+  E --> F[Live Dashboard / Alerts]
