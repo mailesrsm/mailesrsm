@@ -84,9 +84,4 @@ A guy who **ships working IoT systems**.
 ---
 
 ## 🛰️ Featured Project — Smart Pothole Detection
-```mermaid
-flowchart LR
-  A[MPU6050 + GPS Sensor Data] --> B[ESP32 Firmware Logic]
-  B --> C[Cloudflare Worker (Edge Filter)]
-  C --> D[Firebase RTDB]
-  D --> E[Live Dashboard + Alerts]
+
