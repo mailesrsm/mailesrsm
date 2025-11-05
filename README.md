@@ -1,80 +1,84 @@
-<!-- Profile: mailesrsm | Hybrid visual README (icons + color, clean layout) -->
-
 <div align="center">
 
-# **Maileswaran R S**
-**IoT Systems · Embedded Hardware · Cloud Integrations**  
-_“Turning sensor signals into real-time, actionable data.”_
+# 🌟 **Maileswaran R S**
+### **IoT Systems • Embedded Hardware • Cloud Integrations**
+_“Turning real-world sensor data into live, meaningful insights.”_
 
-[![GitHub Followers](https://img.shields.io/github/followers/mailesrsm?label=Followers&style=flat-square)](https://github.com/mailesrsm)
-[![Profile Views](https://komarev.com/ghpvc/?username=mailesrsm&style=flat-square)](https://github.com/mailesrsm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maileswaran%20Srinivasan-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/maileswaran-srinivasan)
-[![Mail](https://img.shields.io/badge/Email-maileswaranrs%40gmail.com-red?logo=gmail&style=flat-square)](mailto:maileswaranrs@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/mailesrsm?label=Followers&color=ff69b4&style=for-the-badge)](https://github.com/mailesrsm)
+[![Profile Views](https://komarev.com/ghpvc/?username=mailesrsm&color=blueviolet&style=for-the-badge)](https://github.com/mailesrsm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maileswaran-srinivasan)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:maileswaranrs@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Now
+## 🚀 What I'm Doing Now
 - Building **Smart Pothole Detection & Reporting System**
-- **MPU6050 + GPS** on **ESP32/NodeMCU** → **Firebase RTDB** via **Cloudflare Workers**
-- Real-time dashboard & alerts
+- Real-time data pipeline using **MPU6050 + GPS + Firebase + Cloudflare Workers**
+- Dashboard for **live visualization & severity alerts**
 
 ---
 
-## 🧠 Core Strength
-**End-to-end pipeline:** Sensor ➜ Microcontroller ➜ Transmission ➜ Cloud DB ➜ Dashboard ➜ Alerts  
-I don’t stack-dump; I **ship systems that run**.
+## 🔥 Core Strength (Identity)
+**End-to-End Systems Builder**  
+`SENSOR → MICROCONTROLLER → BACKEND → DASHBOARD → ALERT`
+
+Not “a guy who knows Arduino.”  
+A guy who **ships working IoT systems**.
 
 ---
 
-## 🛠️ Tech I Actually Use
-
-### Hardware & Modules
-<p>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C/C++"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+## 🎯 **Main Language & Primary Development Skill**
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-![ESP32](https://img.shields.io/badge/ESP32-333?style=flat-square)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-333?style=flat-square)
-![MPU6050](https://img.shields.io/badge/MPU6050-333?style=flat-square)
-![GPS](https://img.shields.io/badge/GPS-333?style=flat-square)
-![GSM](https://img.shields.io/badge/GSM-333?style=flat-square)
-
-### Cloud & Backend
-<p>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-</p>
-
-![Firebase RTDB](https://img.shields.io/badge/Firebase%20RTDB-FFCA28?logo=firebase&logoColor=000&style=flat-square)
-![Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=000&style=flat-square)
-![Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?logo=firebase&logoColor=000&style=flat-square)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=fff&style=flat-square)
-![Flask API](https://img.shields.io/badge/Flask%20API-000?logo=flask&style=flat-square)
-
-### Frontend (Lite)
-<p>
-  <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-  <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-  <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
-</p>
-
-![Dashboards](https://img.shields.io/badge/Realtime%20Dashboards-0A66C2?style=flat-square)
-![Maps](https://img.shields.io/badge/Map%20Visualizations-0A66C2?style=flat-square)
+I use **Java** heavily for:
+- Data processing logic
+- Pattern analysis
+- Device communication pipelines
+- Microservice-style backend services
 
 ---
 
-## 🛰️ Featured Build — Smart Pothole Detection
-**Goal:** Detect road anomalies, classify severity, geotag, and notify maintenance teams in real time.
+## 🛠️ **Tech Stack (Colorful Mode)**
 
+### 🎮 Hardware, Sensors & Embedded
+| Tech | Badge |
+|------|-------|
+| ESP32 | ![](https://img.shields.io/badge/ESP32-black?style=for-the-badge) |
+| NodeMCU | ![](https://img.shields.io/badge/NodeMCU-purple?style=for-the-badge) |
+| Arduino | ![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&style=for-the-badge&logoColor=white) |
+| MPU6050 | ![](https://img.shields.io/badge/MPU6050-ff9500?style=for-the-badge) |
+| GPS Module | ![](https://img.shields.io/badge/GPS-0077b6?style=for-the-badge) |
+| GSM Module | ![](https://img.shields.io/badge/GSM-ff4d4d?style=for-the-badge) |
+
+---
+
+### ☁️ Cloud + Backend
+| Tech | Badge |
+|------|-------|
+| Firebase RTDB | ![](https://img.shields.io/badge/Firebase%20RTDB-FFCA28?logo=firebase&logoColor=000&style=for-the-badge) |
+| Firebase Storage | ![](https://img.shields.io/badge/Firebase%20Storage-FFCA28?logo=firebase&logoColor=000&style=for-the-badge) |
+| Firebase Auth | ![](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=000&style=for-the-badge) |
+| Cloudflare Workers | ![](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white&style=for-the-badge) |
+| Flask HTTP API | ![](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=for-the-badge) |
+
+---
+
+### 🎨 Dashboards & Web
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-FFD739?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🛰️ Featured Project — Smart Pothole Detection
 ```mermaid
 flowchart LR
-  A[MPU6050 + GPS] --> B[ESP32/NodeMCU FW]
-  B --> C[Flask/HTTP]
-  C --> D[Cloudflare Worker]
-  D --> E[Firebase RTDB]
-  E --> F[Live Dashboard / Alerts]
+  A[MPU6050 + GPS Sensor Data] --> B[ESP32 Firmware Logic]
+  B --> C[Cloudflare Worker (Edge Filter)]
+  C --> D[Firebase RTDB]
+  D --> E[Live Dashboard + Alerts]
+
