@@ -1,86 +1,50 @@
-- 👋 Hi, I’m @mailesrsm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Cloud and DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Profile: mailesrsm | Hybrid visual README (icons + color, clean layout) -->
 
 <div align="center">
-  
-# 𝙈𝙖𝙞𝙡𝙚𝙨𝙬𝙖𝙧𝙖𝙣 𝙍 𝙎  
-**IoT Systems | Embedded Hardware | Cloud Integrations**
 
-"Turning real-world sensor signals into real-time actionable data."
+# **Maileswaran R S**
+**IoT Systems · Embedded Hardware · Cloud Integrations**  
+_“Turning sensor signals into real-time, actionable data.”_
+
+[![GitHub Followers](https://img.shields.io/github/followers/mailesrsm?label=Followers&style=flat-square)](https://github.com/mailesrsm)
+[![Profile Views](https://komarev.com/ghpvc/?username=mailesrsm&style=flat-square)](https://github.com/mailesrsm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maileswaran%20Srinivasan-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/maileswaran-srinivasan)
+[![Mail](https://img.shields.io/badge/Email-maileswaranrs%40gmail.com-red?logo=gmail&style=flat-square)](mailto:maileswaranrs@gmail.com)
 
 </div>
 
 ---
 
-### 🌍 **Currently Working On**
+## 🚀 Now
 - Building **Smart Pothole Detection & Reporting System**
-- Real-time severity classification using **MPU6050 + GPS + Firebase**
-- Cloudflare Worker pipelines for **low-latency event processing**
+- **MPU6050 + GPS** on **ESP32/NodeMCU** → **Firebase RTDB** via **Cloudflare Workers**
+- Real-time dashboard & alerts
 
 ---
 
-### 🏢 **Experience / Work Direction**
-| Role | Stack | Focus |
-|-----|-------|-------|
-| IoT System Developer | ESP32, NodeMCU, MPU6050, GPS, GSM | Hardware + Firmware |
-| Cloud Integration Developer | Firebase, Cloudflare Workers, REST APIs | Realtime pipelines |
-| Frontend (Lite) | HTML, CSS, JS | Dashboards for Visualization |
+## 🧠 Core Strength
+**End-to-end pipeline:** Sensor ➜ Microcontroller ➜ Transmission ➜ Cloud DB ➜ Dashboard ➜ Alerts  
+I don’t stack-dump; I **ship systems that run**.
 
 ---
 
-### 🔥 **Core Strength**
-**Full pipeline thinking:**  
-Sensor → Microcontroller → Transmission → Cloud DB → Dashboard → Alert System
+## 🛠️ Tech I Actually Use
 
-Not just coding. **Full system execution.**
+### Hardware & Modules
+<p>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C/C++"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+</p>
 
----
+![ESP32](https://img.shields.io/badge/ESP32-333?style=flat-square)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-333?style=flat-square)
+![MPU6050](https://img.shields.io/badge/MPU6050-333?style=flat-square)
+![GPS](https://img.shields.io/badge/GPS-333?style=flat-square)
+![GSM](https://img.shields.io/badge/GSM-333?style=flat-square)
 
-### 🛠️ **Tech I Actually Use**
-| Area | Tools |
-|-----|------|
-| Microcontrollers | ESP32, NodeMCU, Arduino |
-| Sensors & Modules | MPU6050, GPS Module, GSM Module |
-| Cloud / Backend | Firebase (RTDB, Storage, Auth), Cloudflare Workers |
-| Programming | Java, C, JavaScript |
-| Dev Tools | VS Code, Arduino IDE, Git |
-
----
-
-### 📡 Featured Project
-#### **Smart Pothole Detection & Reporting System**
-- Detect vibration anomalies → classify severity
-- Location-tag incidents using GPS
-- Sync to Firebase in **real-time**
-- Dashboard for live road status visualization
-
-> **Goal:** Reduce human reporting delay & assist municipal maintenance workflows.
-
----
-
-### 💬 Languages I Speak
-| Language | Fluency |
-|---------|---------|
-| Tamil | Native |
-| English | Professional |
-| Kannada | Basic |
-
----
-
-### 🎯 About Me
-- I don’t chase “100 technologies”
-- I optimize **one problem deeply**
-- I build systems that **run in the real world**
-
----
-
-### 📬 Reach Me
-**LinkedIn:** https://linkedin.com/in/maileswaran-srinivasan  
-**GitHub:** https://github.com/mailesrsm  
-**Mail:** maileswaranrs@gmail.com
-
+### Cloud & Backend
+<p>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare"/>
+  <img height="28" src="http
