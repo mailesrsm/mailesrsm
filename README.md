@@ -31,27 +31,18 @@ A guy who **ships working IoT systems**.
 
 ## 🎯 **Main Language & Primary Development Skill**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="110" height="110"/>
 </div>
-
-I use **Java** heavily for:
-- Data processing logic
-- Pattern analysis
-- Device communication pipelines
-- Microservice-style backend services
 
 ---
 
-## 🛠️ **Tech Stack (Colorful Mode)**
+## 🛠️ **Tech Stack (Clean & Consistent)**
 
 ### 🎮 Hardware, Sensors & Embedded
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hysoftwarecdn/hardware-icons/main/esp32.png" width="90" height="90"/>
-  <img src="https://raw.githubusercontent.com/hysoftwarecdn/hardware-icons/main/nodemcu.png" width="90" height="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="85" height="85"/>
-  <img src="https://raw.githubusercontent.com/hysoftwarecdn/sensor-icons/main/mpu6050.png" width="85" height="85"/>
-  <img src="https://raw.githubusercontent.com/hysoftwarecdn/sensor-icons/main/gps.png" width="85" height="85"/>
-  <img src="https://raw.githubusercontent.com/hysoftwarecdn/sensor-icons/main/gsm.png" width="85" height="85"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="85" height="85"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="85" height="85"/>
 </div>
 
 | Tech | Badge |
@@ -89,10 +80,6 @@ I use **Java** heavily for:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" height="75"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75"/>
 </div>
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-FFD739?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
